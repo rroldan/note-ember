@@ -7,6 +7,18 @@
   }
 
 
+#Install Bootstrap
+* ember install ember-cli-sass
+* ember install ember-cli-bootstrap-sassy
+* npm -g install sass
+* mv app/styles/app.css app/styles/app.scss
+* Open ./app/styles/app.scss file in your editor and add the following line:
+  @import "bootstrap";
+
+
+
+
+
 # Note-ember
 
 This README outlines the details of collaborating on this Ember application.
