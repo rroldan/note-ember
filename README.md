@@ -1,3 +1,12 @@
+# Install ESlint
+* npm install eslint
+* ember install ember-cli-eslint
+* npm install -g eslint-config-ember
+* 'ember-cli-qunit': {
+    useLintTree: false,
+  }
+
+
 # Note-ember
 
 This README outlines the details of collaborating on this Ember application.
@@ -50,4 +59,3 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-
