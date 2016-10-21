@@ -15,6 +15,11 @@
 * Open ./app/styles/app.scss file in your editor and add the following line:
   @import "bootstrap";
 
+#Install Ember-localstorage-adapter
+* https://github.com/locks/ember-localstorage-adapter
+* ember install ember-localstorage-adapter
+
+
 
 
 
